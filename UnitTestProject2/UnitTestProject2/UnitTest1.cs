@@ -38,7 +38,7 @@ namespace SampleProjectonCI
             driver = new ChromeDriver();
             driver.Navigate().GoToUrl("http://www.google.com");
             Thread.Sleep(1200);
-            driver.FindElement(By.Name("q")).SendKeys("est");
+            driver.FindElement(By.Name("qrs")).SendKeys("est");
             Thread.Sleep(1200);
             driver.FindElement(By.Name("btnK")).Click();
             driver.Close();
