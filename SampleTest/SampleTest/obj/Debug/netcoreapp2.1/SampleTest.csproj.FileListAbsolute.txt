@@ -1,0 +1,14 @@
+C:\Users\lenovo\source\repos\SampleTest\SampleTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\lenovo\source\repos\SampleTest\SampleTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\lenovo\source\repos\SampleTest\SampleTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\lenovo\source\repos\SampleTest\SampleTest\bin\Debug\netcoreapp2.1\SampleTest.deps.json
+C:\Users\lenovo\source\repos\SampleTest\SampleTest\bin\Debug\netcoreapp2.1\SampleTest.runtimeconfig.json
+C:\Users\lenovo\source\repos\SampleTest\SampleTest\bin\Debug\netcoreapp2.1\SampleTest.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\SampleTest\SampleTest\bin\Debug\netcoreapp2.1\SampleTest.dll
+C:\Users\lenovo\source\repos\SampleTest\SampleTest\obj\Debug\netcoreapp2.1\SampleTest.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\SampleTest\SampleTest\obj\Debug\netcoreapp2.1\SampleTest.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\SampleTest\SampleTest\obj\Debug\netcoreapp2.1\SampleTest.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\SampleTest\SampleTest\obj\Debug\netcoreapp2.1\SampleTest.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\SampleTest\SampleTest\bin\Debug\netcoreapp2.1\SampleTest.pdb
+C:\Users\lenovo\source\repos\SampleTest\SampleTest\obj\Debug\netcoreapp2.1\SampleTest.dll
+C:\Users\lenovo\source\repos\SampleTest\SampleTest\obj\Debug\netcoreapp2.1\SampleTest.pdb
